@@ -3,7 +3,7 @@
     "description": "Octo Organization CI workflow template.<s>aaa",
     "iconName": "test.svg",
     "categories": [
-        "Go<s>aaa"
+        "Go\t"
     ],
     "filePatterns": [
         "package.json$",
