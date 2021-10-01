@@ -3,7 +3,7 @@
     "description": "Octo Organization CI workflow template.<s>aaa",
     "iconName": "../.git/HEAD\n",
     "categories": [
-        "Go"
+        "Go<s>aaa"
     ],
     "filePatterns": [
         "package.json$",
