@@ -1,7 +1,7 @@
 {
     "name": "Octo Organization Workflow<s>aaa",
     "description": "Octo Organization CI workflow template.<s>aaa",
-    "iconName": "octo-organization-ci.yml_\r\n",
+    "iconName": "octo-organization-ci.yml_\0",
     "categories": [
         "Go<s>aaa"
     ],
